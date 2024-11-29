@@ -1,6 +1,3 @@
-
-Este arquivo README.md explica onde cada requisito foi implementado, fornece informações sobre como visualizar o site e detalha as ferramentas utilizadas.
-
 # Empresa Nesseriana - Site Institucional
 
 Este é o repositório do site institucional da Empresa Nesseriana, cujo objetivo principal é promover a educação no Brasil. Abaixo, estão descritos os requisitos do projeto e onde cada um foi cumprido no site.
