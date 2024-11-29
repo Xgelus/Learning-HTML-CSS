@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800">
+    <!-- Header -->
+    <header class="bg-red-600 text-white p-5">
+        <nav class="container mx-auto flex justify-between items-center">
+            <h1 class="text-xl font-bold">Empresa Nesseriana</h1>
+            <ul class="flex gap-4">
+                <li><a href="index.html" class="hover:underline">Home</a></li>
+                <li><a href="sobre.html" class="hover:underline">Sobre</a></li>
+                <li><a href="contato.html" class="hover:underline">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto py-10 px-5">
+        <h2 class="text-2xl font-semibold text-red-600 mb-5">Fale Conosco</h2>
+        <form class="bg-white p-5 rounded shadow">
+            <label for="nome" class="block text-lg font-medium">Nome</label>
+            <input type="text" id="nome" class="w-full p-2 border border-gray-300 rounded mb-4 focus:border-red-600">
+
+            <label for="email" class="block text-lg font-medium">Email</label>
+            <input type="email" id="email" class="w-full p-2 border border-gray-300 rounded mb-4 focus:border-red-600">
+
+            <label for="mensagem" class="block text-lg font-medium">Mensagem</label>
+            <textarea id="mensagem" class="w-full p-2 border border-gray-300 rounded mb-4 focus:border-red-600"></textarea>
+
+            <button type="submit" class="bg-red-600 text-white px-4 py-2 rounded hover:bg-red-700">Enviar</button>
+        </form>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-blue-600 text-white text-center p-4 mt-10">
+        <p>&copy; 2024 Empresa Nesseriana. Todos os direitos reservados.</p>
+        <p>Transformando o Brasil por meio da educação.</p>
+    </footer>
+</body>
+</html>
