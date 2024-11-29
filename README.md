@@ -84,5 +84,5 @@ HTML5: Estruturação semântica.
 Tailwind CSS: Estilização, responsividade e pseudo-classes.
 CSS personalizado: Ajustes adicionais (opcional).
 
-
+## **Autor**
 Desenvolvido por Gabriel Andrade
