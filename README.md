@@ -77,12 +77,15 @@ Este é o repositório do site institucional da Empresa Nesseriana, cujo objetiv
    git clone https://github.com/seu-usuario/empresa-nesseriana.git
 2. Abra qualquer um dos arquivos HTML no navegador.
 
+---
 
 ## **Ferramentas Utilizadas**
 
 HTML5: Estruturação semântica.
 Tailwind CSS: Estilização, responsividade e pseudo-classes.
 CSS personalizado: Ajustes adicionais (opcional).
+
+---
 
 ## **Autor**
 Desenvolvido por Gabriel Andrade
